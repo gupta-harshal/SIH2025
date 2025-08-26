@@ -1,2 +1,2 @@
 # SIH2025
-Project
+This is the repository for SIH2025.
